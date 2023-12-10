@@ -1,0 +1,37 @@
+*::selection
+{
+    color: white;
+    background-color: black;
+}
+
+body
+{
+background-image: url("../images/wallpaperflare.com_wallpaper\ \(2\).jpg");
+background-position: center center;
+background-size: cover;
+}
+
+
+.home 
+{
+    height: 100vh;
+}
+
+.homecontent
+{
+    background-color: #827d7db0;
+}
+.btn1
+{
+    border: none;
+    top: 75%;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(220, 247, 220);
+}
+
+@media screen and (min-width : 768px) {
+    #ayaahItem p {
+            font-size: 20px;
+        }
+}
